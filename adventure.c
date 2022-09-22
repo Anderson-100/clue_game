@@ -52,9 +52,9 @@ int main() {
     names[rand() % 5]
   };
 
-  printf("%s\n", answer.room);
-  printf("%s\n", answer.item);
-  printf("%s\n", answer.name);
+  // printf("%s\n", answer.room);
+  // printf("%s\n", answer.item);
+  // printf("%s\n", answer.name);
 
   // Initialize Rooms
   struct Room* a0 = malloc(sizeof(struct Room));
