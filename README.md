@@ -1,6 +1,4 @@
-# Project 01 - Clue
-### CS 230
-### Author: Anderson Hsiao
+# Clue
 
 This program is a simplified, single-player, text-based adventure game version of the board game Clue. 
 
